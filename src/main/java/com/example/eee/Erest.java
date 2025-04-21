@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Erest {
     @GetMapping("/")
     public String getName(){
-        return "eee application";
+        return "eee applications";
     }
 }
