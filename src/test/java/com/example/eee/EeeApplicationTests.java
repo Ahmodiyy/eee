@@ -23,6 +23,11 @@ class SpringbootApplicationTests {
 		assertEquals("spring", person.getName());
 	}
 
+	@Test
+	void testSprings() {
+		assertEquals("spring", person.getName());
+	}
+
 }
 
 
